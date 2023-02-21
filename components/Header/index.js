@@ -1,5 +1,5 @@
 function Header () {
     return (<h1>
-        Header
+        footer
     </h1>)
 }
