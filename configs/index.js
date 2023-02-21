@@ -1,5 +1,5 @@
-function Config () {
+function Header () {
     return (<h1>
-        Config
+        footer
     </h1>)
 }
